@@ -10,6 +10,7 @@ NYR - a repository for New Year's resolution
  - *Be a good father.*
  - *Eat lightly, breathe deeply, live moderately, cultivate cheerfulness, and maintain an interest in life.*
  - *Solve a real world problem.*
- - *Build something truely exciting.*
+ - *Build something truly exciting.*
  - *Leave the corporate world behind.*
+ - *Go for a family vacation*
  - *Buy a car and home.*
