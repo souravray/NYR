@@ -7,7 +7,7 @@ NYR - a repository for New Year's resolution
 ## 2014: A RESOLVE FOR THE EVERY MORNING OF THE NEW YEAR ##
 
 **I will**
- - *Be a good father.*
+ - *Be ~~a good father~~ the 'daddy cool'.*
  - *Eat lightly, breathe deeply, live moderately, cultivate cheerfulness, and maintain an interest in life.*
  - *Solve a real world problem.*
  - *Build something truly exciting.*
