@@ -13,4 +13,4 @@ NYR - a repository for New Year's resolution
  - *Build something truly exciting.*
  - *Leave the corporate world behind.*
  - *Go for a family vacation*
- - *Buy a car and home.*
+ - *Buy ~~a car~~ and home.*
